@@ -1,7 +1,7 @@
 # travelRails
 # travelRails
 # travelRails
-Rails version: 5.2.1
+Rails version: 5.2.1 <br>
 Ruby version: 2.3.3 (universal.x86_64-darwin17)
 
 This is a repository to develop an app called "toraberu".
