@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Loginid:</strong>
+  <%= @user.loginId %>
+</p>
+
+<p>
+  <strong>Username:</strong>
+  <%= @user.userName %>
+</p>
+
+<p>
+  <strong>Password:</strong>
+  <%= @user.password %>
+</p>
+
+<p>
+  <strong>Albumid:</strong>
+  <%= @user.albumId %>
+</p>
+
+<%= link_to 'Edit', edit_user_path(@user) %> |
+<%= link_to 'Back', users_path %>
